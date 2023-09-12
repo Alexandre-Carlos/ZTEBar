@@ -1,0 +1,12 @@
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\bin\Debug\net6.0\ZTEBar.Infra.deps.json
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\bin\Debug\net6.0\ZTEBar.Infra.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\bin\Debug\net6.0\ZTEBar.Infra.pdb
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ZTEBar.Infra.csproj.AssemblyReference.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ZTEBar.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ZTEBar.Infra.AssemblyInfoInputs.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ZTEBar.Infra.AssemblyInfo.cs
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ZTEBar.Infra.csproj.CoreCompileInputs.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ZTEBar.Infra.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\refint\ZTEBar.Infra.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ZTEBar.Infra.pdb
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Infra\obj\Debug\net6.0\ref\ZTEBar.Infra.dll

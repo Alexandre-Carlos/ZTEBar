@@ -1,0 +1,12 @@
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\bin\Debug\net6.0\ZTEBar.Domain.deps.json
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\bin\Debug\net6.0\ZTEBar.Domain.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\bin\Debug\net6.0\ZTEBar.Domain.pdb
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ZTEBar.Domain.csproj.AssemblyReference.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ZTEBar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ZTEBar.Domain.AssemblyInfoInputs.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ZTEBar.Domain.AssemblyInfo.cs
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ZTEBar.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ZTEBar.Domain.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\refint\ZTEBar.Domain.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ZTEBar.Domain.pdb
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Domain\obj\Debug\net6.0\ref\ZTEBar.Domain.dll

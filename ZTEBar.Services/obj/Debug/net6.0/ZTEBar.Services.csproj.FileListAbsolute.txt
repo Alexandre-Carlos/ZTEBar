@@ -1,0 +1,12 @@
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\bin\Debug\net6.0\ZTEBar.Services.deps.json
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\bin\Debug\net6.0\ZTEBar.Services.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\bin\Debug\net6.0\ZTEBar.Services.pdb
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ZTEBar.Services.csproj.AssemblyReference.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ZTEBar.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ZTEBar.Services.AssemblyInfoInputs.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ZTEBar.Services.AssemblyInfo.cs
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ZTEBar.Services.csproj.CoreCompileInputs.cache
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ZTEBar.Services.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\refint\ZTEBar.Services.dll
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ZTEBar.Services.pdb
+C:\projetos\ZTEBar\ZTEBar\ZTEBar.Services\obj\Debug\net6.0\ref\ZTEBar.Services.dll
